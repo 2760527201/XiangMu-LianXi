@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>后台管理系统</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="head clearfix">
+        <div class="headlogo left">
+            <h2><a href="#">系统管理</a></h2>
+        </div>
+        <ul class="headnav left">
+            <li id="menu_0" class="current-menu">
+                <a href="#">菜单管理</a>
+            </li>
+            <li id="menu_1">
+                <a href="#">模块管理</a>
+            </li>
+            <li id="menu_2">
+                <a href="#">系统设置</a>
+            </li>
+            <li id="menu_3">
+                <a href="#">扩展管理</a>
+            </li>
+        </ul>
+        <ul class="headlink right clearfix">
+            <li id="link_0">
+                <a href="#">你好，admin</a>
+            </li>
+            <li id="link_1">
+                <a href="#">隐藏菜单</a>
+            </li>
+            <li id="link_2">
+                <a href="#">首页</a>
+            </li>
+            <li id="link_3">
+                <a href="#">帮助</a>
+            </li>
+            <li id="link_4">
+                <a href="#">退出</a>
+            </li>
+        </ul>
+    </div>
+</body>
+</html>
+<script src="js/jquery-1.11.3.min.js"></script>
+<script>
+    $(function () {
+        // $("ul.headnav li a").mouseover(function(){
+        //     // alert("sda")  a是行内元素  给width没用
+        //     $(this).css({
+        //          width : 120,
+        //          display :　"",
+        //          background : "#0f92d6"
+        //     }).siblings().css({
+        //         width : "70px",
+        //         display :　"none",
+        //         background : "#0f92d6"
+        //     })
+        // })
+        $("ul.headnav li").mouseover(function(){
+            // alert("sda")  a是行内元素  给width没用
+            $(this).addClass("current-menu").siblings().removeClass("current-menu");
+        })
+    })
+</script>

@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46a7b184-f832-4bcd-b4cf-f3b67125ec2a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.总结/lanmuguanli.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3492">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.总结/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3816">
+              <caret line="208" column="13" lean-forward="true" selection-start-line="208" selection-start-column="13" selection-end-line="208" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.总结/gongsijieshao.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="47" column="40" lean-forward="true" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.总结/login.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.总结/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1793">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10.总结/wangzhanshezhi.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/登录页面/登录.html" />
+        <option value="$PROJECT_DIR$/登录页面/css/style.css" />
+        <option value="$PROJECT_DIR$/登录页面/login.html" />
+        <option value="$PROJECT_DIR$/顶部导航01/css/style.css" />
+        <option value="$PROJECT_DIR$/顶部导航01/index.html" />
+        <option value="$PROJECT_DIR$/顶部导航/css/style.css" />
+        <option value="$PROJECT_DIR$/顶部导航/index.html" />
+        <option value="$PROJECT_DIR$/4.右侧主体框架/main.html" />
+        <option value="$PROJECT_DIR$/4.右侧主体框架/index.html" />
+        <option value="$PROJECT_DIR$/5.系统主页/main.html" />
+        <option value="$PROJECT_DIR$/6. 栏目管理/lanmuguanli.html" />
+        <option value="$PROJECT_DIR$/6. 栏目管理/index.html" />
+        <option value="$PROJECT_DIR$/7.公司介绍页面制作/index.html" />
+        <option value="$PROJECT_DIR$/7.公司介绍页面制作/gongsijieshao.html" />
+        <option value="$PROJECT_DIR$/7.公司介绍页面制作/lanmuguanli.html" />
+        <option value="$PROJECT_DIR$/7.公司介绍页面制作/main.html" />
+        <option value="$PROJECT_DIR$/8.左侧菜单切换/gongsijieshao.html" />
+        <option value="$PROJECT_DIR$/8.左侧菜单切换/index.html" />
+        <option value="$PROJECT_DIR$/8.左侧菜单切换/lanmuguanli.html" />
+        <option value="$PROJECT_DIR$/8.左侧菜单切换/main.html" />
+        <option value="$PROJECT_DIR$/9.其他功能页面制作/wangzhanshezhi.html" />
+        <option value="$PROJECT_DIR$/10.总结/index.html" />
+        <option value="$PROJECT_DIR$/10.总结/lanmuguanli.html" />
+        <option value="$PROJECT_DIR$/10.总结/main.html" />
+        <option value="$PROJECT_DIR$/10.总结/wangzhanshezhi.html" />
+        <option value="$PROJECT_DIR$/10.总结/gongsijieshao.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="254" />
+    <option name="y" value="88" />
+    <option name="width" value="1205" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="项目---练习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="项目---练习" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="项目---练习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="项目---练习" type="462c0819:PsiDirectoryNode" />
+              <item name="10.总结" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\深度教育\H5--C3\js(zhou)\js杨\5-7\项目---练习\登录页面\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46a7b184-f832-4bcd-b4cf-f3b67125ec2a" name="Default Changelist" comment="" />
+      <created>1557222330642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557222330642</updated>
+      <workItem from="1557222334210" duration="13994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13994000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.12065332" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../5-5/07.企业网站后台制作实战/素材文件及源代码/3_登录表单验证/结果文件/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2448">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/登录页面/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="89" column="12" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/登录页面/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/顶部导航/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="212" column="10" selection-start-line="212" selection-start-column="10" selection-end-line="212" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/顶部导航/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4745">
+          <caret line="197" column="55" selection-start-line="197" selection-start-column="55" selection-end-line="197" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.右侧主体框架/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4716">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.右侧主体框架/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="188" column="38" selection-start-line="188" selection-start-column="38" selection-end-line="188" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.系统主页/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.系统主页/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.右侧主体框架/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.系统主页/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6. 栏目管理/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2117">
+          <caret line="191" column="24" lean-forward="true" selection-start-line="191" selection-start-column="24" selection-end-line="191" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6. 栏目管理/lanmuguanli.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="203" column="19" selection-start-line="203" selection-start-column="19" selection-end-line="203" selection-end-column="19" />
+          <folding>
+            <element signature="e#1462#1468#0" expanded="true" />
+            <element signature="e#1468#1474#0" expanded="true" />
+            <element signature="e#1474#1480#0" expanded="true" />
+            <element signature="e#1534#1540#0" expanded="true" />
+            <element signature="e#1540#1546#0" expanded="true" />
+            <element signature="e#1546#1552#0" expanded="true" />
+            <element signature="e#1606#1612#0" expanded="true" />
+            <element signature="e#1612#1618#0" expanded="true" />
+            <element signature="e#1618#1624#0" expanded="true" />
+            <element signature="e#1678#1684#0" expanded="true" />
+            <element signature="e#1684#1690#0" expanded="true" />
+            <element signature="e#1690#1696#0" expanded="true" />
+            <element signature="e#2259#2265#0" expanded="true" />
+            <element signature="e#2265#2271#0" expanded="true" />
+            <element signature="e#2271#2277#0" expanded="true" />
+            <element signature="e#2331#2337#0" expanded="true" />
+            <element signature="e#2337#2343#0" expanded="true" />
+            <element signature="e#2343#2349#0" expanded="true" />
+            <element signature="e#2403#2409#0" expanded="true" />
+            <element signature="e#2409#2415#0" expanded="true" />
+            <element signature="e#2415#2421#0" expanded="true" />
+            <element signature="e#2475#2481#0" expanded="true" />
+            <element signature="e#2481#2487#0" expanded="true" />
+            <element signature="e#2487#2493#0" expanded="true" />
+            <element signature="e#3055#3061#0" expanded="true" />
+            <element signature="e#3061#3067#0" expanded="true" />
+            <element signature="e#3067#3073#0" expanded="true" />
+            <element signature="e#3127#3133#0" expanded="true" />
+            <element signature="e#3133#3139#0" expanded="true" />
+            <element signature="e#3139#3145#0" expanded="true" />
+            <element signature="e#3199#3205#0" expanded="true" />
+            <element signature="e#3205#3211#0" expanded="true" />
+            <element signature="e#3211#3217#0" expanded="true" />
+            <element signature="e#3271#3277#0" expanded="true" />
+            <element signature="e#3277#3283#0" expanded="true" />
+            <element signature="e#3283#3289#0" expanded="true" />
+            <element signature="e#3550#3556#0" expanded="true" />
+            <element signature="e#3556#3562#0" expanded="true" />
+            <element signature="e#3562#3568#0" expanded="true" />
+            <element signature="e#3568#3574#0" expanded="true" />
+            <element signature="e#3878#3884#0" expanded="true" />
+            <element signature="e#3884#3890#0" expanded="true" />
+            <element signature="e#3890#3896#0" expanded="true" />
+            <element signature="e#3950#3956#0" expanded="true" />
+            <element signature="e#3956#3962#0" expanded="true" />
+            <element signature="e#3962#3968#0" expanded="true" />
+            <element signature="e#4022#4028#0" expanded="true" />
+            <element signature="e#4028#4034#0" expanded="true" />
+            <element signature="e#4034#4040#0" expanded="true" />
+            <element signature="e#4094#4100#0" expanded="true" />
+            <element signature="e#4100#4106#0" expanded="true" />
+            <element signature="e#4106#4112#0" expanded="true" />
+            <element signature="e#4373#4379#0" expanded="true" />
+            <element signature="e#4379#4385#0" expanded="true" />
+            <element signature="e#4385#4391#0" expanded="true" />
+            <element signature="e#4391#4397#0" expanded="true" />
+            <element signature="e#4701#4707#0" expanded="true" />
+            <element signature="e#4707#4713#0" expanded="true" />
+            <element signature="e#4713#4719#0" expanded="true" />
+            <element signature="e#4773#4779#0" expanded="true" />
+            <element signature="e#4779#4785#0" expanded="true" />
+            <element signature="e#4785#4791#0" expanded="true" />
+            <element signature="e#4845#4851#0" expanded="true" />
+            <element signature="e#4851#4857#0" expanded="true" />
+            <element signature="e#4857#4863#0" expanded="true" />
+            <element signature="e#4917#4923#0" expanded="true" />
+            <element signature="e#4923#4929#0" expanded="true" />
+            <element signature="e#4929#4935#0" expanded="true" />
+            <element signature="e#5497#5503#0" expanded="true" />
+            <element signature="e#5503#5509#0" expanded="true" />
+            <element signature="e#5509#5515#0" expanded="true" />
+            <element signature="e#5569#5575#0" expanded="true" />
+            <element signature="e#5575#5581#0" expanded="true" />
+            <element signature="e#5581#5587#0" expanded="true" />
+            <element signature="e#5641#5647#0" expanded="true" />
+            <element signature="e#5647#5653#0" expanded="true" />
+            <element signature="e#5653#5659#0" expanded="true" />
+            <element signature="e#5713#5719#0" expanded="true" />
+            <element signature="e#5719#5725#0" expanded="true" />
+            <element signature="e#5725#5731#0" expanded="true" />
+            <element signature="e#5992#5998#0" expanded="true" />
+            <element signature="e#5998#6004#0" expanded="true" />
+            <element signature="e#6004#6010#0" expanded="true" />
+            <element signature="e#6010#6016#0" expanded="true" />
+            <element signature="e#6319#6325#0" expanded="true" />
+            <element signature="e#6325#6331#0" expanded="true" />
+            <element signature="e#6331#6337#0" expanded="true" />
+            <element signature="e#6391#6397#0" expanded="true" />
+            <element signature="e#6397#6403#0" expanded="true" />
+            <element signature="e#6403#6409#0" expanded="true" />
+            <element signature="e#6463#6469#0" expanded="true" />
+            <element signature="e#6469#6475#0" expanded="true" />
+            <element signature="e#6475#6481#0" expanded="true" />
+            <element signature="e#6535#6541#0" expanded="true" />
+            <element signature="e#6541#6547#0" expanded="true" />
+            <element signature="e#6547#6553#0" expanded="true" />
+            <element signature="e#6814#6820#0" expanded="true" />
+            <element signature="e#6820#6826#0" expanded="true" />
+            <element signature="e#6826#6832#0" expanded="true" />
+            <element signature="e#6832#6838#0" expanded="true" />
+            <element signature="e#7142#7148#0" expanded="true" />
+            <element signature="e#7148#7154#0" expanded="true" />
+            <element signature="e#7154#7160#0" expanded="true" />
+            <element signature="e#7214#7220#0" expanded="true" />
+            <element signature="e#7220#7226#0" expanded="true" />
+            <element signature="e#7226#7232#0" expanded="true" />
+            <element signature="e#7286#7292#0" expanded="true" />
+            <element signature="e#7292#7298#0" expanded="true" />
+            <element signature="e#7298#7304#0" expanded="true" />
+            <element signature="e#7358#7364#0" expanded="true" />
+            <element signature="e#7364#7370#0" expanded="true" />
+            <element signature="e#7370#7376#0" expanded="true" />
+            <element signature="e#7637#7643#0" expanded="true" />
+            <element signature="e#7643#7649#0" expanded="true" />
+            <element signature="e#7649#7655#0" expanded="true" />
+            <element signature="e#7655#7661#0" expanded="true" />
+            <element signature="e#7965#7971#0" expanded="true" />
+            <element signature="e#7971#7977#0" expanded="true" />
+            <element signature="e#7977#7983#0" expanded="true" />
+            <element signature="e#8037#8043#0" expanded="true" />
+            <element signature="e#8043#8049#0" expanded="true" />
+            <element signature="e#8049#8055#0" expanded="true" />
+            <element signature="e#8109#8115#0" expanded="true" />
+            <element signature="e#8115#8121#0" expanded="true" />
+            <element signature="e#8121#8127#0" expanded="true" />
+            <element signature="e#8181#8187#0" expanded="true" />
+            <element signature="e#8187#8193#0" expanded="true" />
+            <element signature="e#8193#8199#0" expanded="true" />
+            <element signature="e#8460#8466#0" expanded="true" />
+            <element signature="e#8466#8472#0" expanded="true" />
+            <element signature="e#8472#8478#0" expanded="true" />
+            <element signature="e#8478#8484#0" expanded="true" />
+            <element signature="e#8788#8794#0" expanded="true" />
+            <element signature="e#8794#8800#0" expanded="true" />
+            <element signature="e#8800#8806#0" expanded="true" />
+            <element signature="e#8860#8866#0" expanded="true" />
+            <element signature="e#8866#8872#0" expanded="true" />
+            <element signature="e#8872#8878#0" expanded="true" />
+            <element signature="e#8932#8938#0" expanded="true" />
+            <element signature="e#8938#8944#0" expanded="true" />
+            <element signature="e#8944#8950#0" expanded="true" />
+            <element signature="e#9004#9010#0" expanded="true" />
+            <element signature="e#9010#9016#0" expanded="true" />
+            <element signature="e#9016#9022#0" expanded="true" />
+            <element signature="e#9284#9290#0" expanded="true" />
+            <element signature="e#9290#9296#0" expanded="true" />
+            <element signature="e#9296#9302#0" expanded="true" />
+            <element signature="e#9302#9308#0" expanded="true" />
+            <element signature="e#9612#9618#0" expanded="true" />
+            <element signature="e#9618#9624#0" expanded="true" />
+            <element signature="e#9624#9630#0" expanded="true" />
+            <element signature="e#9684#9690#0" expanded="true" />
+            <element signature="e#9690#9696#0" expanded="true" />
+            <element signature="e#9696#9702#0" expanded="true" />
+            <element signature="e#9756#9762#0" expanded="true" />
+            <element signature="e#9762#9768#0" expanded="true" />
+            <element signature="e#9768#9774#0" expanded="true" />
+            <element signature="e#9828#9834#0" expanded="true" />
+            <element signature="e#9834#9840#0" expanded="true" />
+            <element signature="e#9840#9846#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.公司介绍页面制作/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.公司介绍页面制作/lanmuguanli.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="195" column="10" selection-start-line="195" selection-start-column="10" selection-end-line="195" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.公司介绍页面制作/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1260">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.公司介绍页面制作/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="65" column="16" lean-forward="true" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.公司介绍页面制作/gongsijieshao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.左侧菜单切换/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="172" column="10" selection-start-line="172" selection-start-column="10" selection-end-line="172" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.左侧菜单切换/gongsijieshao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.登录页面/login.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.左侧菜单切换/lanmuguanli.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.左侧菜单切换/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2556">
+          <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.其他功能页面制作/wangzhanshezhi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.总结/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3816">
+          <caret line="208" column="13" lean-forward="true" selection-start-line="208" selection-start-column="13" selection-end-line="208" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.总结/gongsijieshao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="47" column="40" lean-forward="true" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.总结/lanmuguanli.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3492">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.总结/login.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.总结/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1793">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.总结/wangzhanshezhi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

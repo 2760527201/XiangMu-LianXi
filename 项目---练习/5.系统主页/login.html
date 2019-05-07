@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>后台系统管理-登录</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="login">
+        <div class="loginmain">
+            <h2>登录管理系统</h2>
+            <form action="/" method="get">
+                <ul>
+                    <li>
+                        <span>管理员账号：</span>
+                        <input type="text" name="username" value="">
+                    </li>
+                    <li>
+                        <span>管理员密码：</span>
+                        <input type="password" name="password" value="">
+                    </li>
+                    <li>
+                        <span>登录验证码：</span>
+                        <input type="text" name="verifyimg" value="">
+                    </li>
+                    <li>
+                        <div class="verifyimg">
+                            <img src="img/verifyimg.png" alt="">
+                        </div>
+                    </li>
+                    <li>
+                        <input type="button" value="登录">
+                        <span id="text"></span>
+                    </li>
+                </ul>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
+<script src="js/jquery-1.11.3.min.js"></script>
+<script>
+    $(function () {
+        // 表单验证
+        $("input[type='button']").click(function () {
+            var $oname = $("input[name='username']");
+            var $opass = $("input[name='password']");
+            var $over = $("input[name='verifyimg']");
+            var $text = $("#text")
+            var oname = $.trim($oname.val());//$.trim()去除多余空格
+            var opass = $.trim($opass.val());
+            var over = $.trim($over.val());
+            if (''== oname){
+                $text.text("请输入用户名！！！");
+                $oname.focus();//代表名字的input 获取到焦点
+                return;
+            }
+            if (''== opass){
+                $text.text("请输入密码！！！");
+                $opass.focus();//代表密码的input 获取到焦点
+                return;
+            }
+            if (''== over){
+                $text.text("请输入验证码！！！");
+                $over.focus();//代表验证码的input 获取到焦点
+                return;
+            }
+            $text.text("登录成功，请稍等...")
+        })
+    });
+</script>
