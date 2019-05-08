@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>秒杀系统</title>
+    <link rel="stylesheet" href="css/miao.css">
+</head>
+<body>
+    <div class="mp-content">
+        <ul class="itemlist border-list" id="anti-encrypt" >
+            <li class="mp-single-item" style="bottom: 0px; z-index: 1;">
+                <div class="item-info">
+                    <img data-src="img/tata.jpg" class="item-logo" src="img/tata.jpg" style="display: inline;" width="120" height="60">    
+                    <h4 class="item-discount">秒杀价<em>3.8元</em>&nbsp; &nbsp; &nbsp;&nbsp;原价：98元</h4>
+                    <h4 class="item-stitle">Tata-上品折扣1-5折 京10店配货</h4>
+                    <p class="item-time" id="item-time">离开始: <span class="mp-remain-time"></span></p>
+                    <p class="item-source"><span class="item-source-inner">上品折扣</span>    </p> 
+                    <span id="item-his-safe" class="item-his-safe" style="display:none;"></span>
+                 </div> 
+                <div class="item-pic">
+                  <img class="load-bear" src="img/miao.jpg" style="display: inline;" width="440" height="180"> 
+                </div>
+                <a href="####" target="_blank" class="mp-item-link" id="mp-item-link" title="Tata-上品折扣1-5折 京10店配货" data-click="{time:1414986097, item:'2839496677'}" onclick="buyItem();return false;">
+                </a>
+            </li>
+        </ul>
+    </div>
+</body>
+</html>
+<script src="js/jquery-3.3.1.min.js"></script>
+<script>    
+    $(function(){
+        var $spantimes = $(".mp-remain-time");
+        // console.log($spantimes.html())
+        var aa = setInterval(spanTimes,1000);
+        
+        function spanTimes(){
+            $.ajax({
+                url : "http://127.0.0.1:8080",
+                success:function(response){
+                    var now =new Date();    //获取当前时间
+                    var date = response - now.getTime();   //得出的为毫秒
+                    console.log(ss(date))
+                    $spantimes.html(ss(date))
+                    console.log(response)
+                    if(date<=0){
+                        clearInterval(aa)
+                        $("#item-time").html("立即抢杀");
+                    }
+                }
+            })
+        function ss(data){
+			var time = parseInt((data)/1000);//  得出秒
+			var d = parseInt(time/(24*60*60));//天数
+			var h = parseInt(time/(60*60)%24);// 小时数
+			h = checkTime(h)
+			var m = parseInt(time/60%60);//分钟
+			m = checkTime(m)
+			var s = parseInt(time%60);//秒（换算）
+            s = checkTime(s);
+            return  d+'天'+h+'小时'+m+'分钟'+s+'秒';
+        }
+        function checkTime(i){  //补位处理
+		    if(i<10){
+		       i = "0" + i; 
+		    }
+		    return i = "" + i;
+		}
+
+        }
+        
+    })
+</script>
